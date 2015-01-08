@@ -16,7 +16,7 @@ They can be found here:
 
 **NOTE: For this class, you are going to be coding in C#, so if you use Express, you need an edition that supports C#. Basically, that's going to be the Desktop version**
 
-The other big, bad paid versions can be obtained through the CS department until at least two business days after the add/drop deadline for free. See the Syllabus for more info.
+The other big, bad paid versions can be obtained through the CS department two business days after the add/drop deadline for free. See the Syllabus for more info and links.
 
 #####Using C# ("C Sharp")
 
