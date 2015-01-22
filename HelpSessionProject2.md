@@ -1,4 +1,7 @@
-###CS 312 Help Session - Project 2
+###CS 312 Help Session - Project 2 - Convex Hull
+
+URL for these notes:
+* [tinyurl.com/cs312helpsession2](http://tinyurl.com/cs312helpsession2)
 
 #####Gist of the Project
 
