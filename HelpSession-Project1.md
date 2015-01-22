@@ -1,4 +1,4 @@
-###CS 312 Help Session
+###CS 312 Help Session - Project 1
 
 #####Getting started with Visual Studio
 
