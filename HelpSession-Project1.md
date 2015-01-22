@@ -31,7 +31,7 @@ More help resources can be found on the syllabus page. If you have not read the 
 
 In addition, there are several other ways to become familiar with C#:
 * [Safari E-Books](https://it.byu.edu/byu/help.do?sysparm_document_key=kb_knowledge,f2a5fbe70a0a3c09007a347985c9a282) (some recommended ones are "Learning C#" and "C# in a Nutshell")
-* [The library for physical books](lib.byu.edu)
+* [The library for physical books](http://lib.byu.edu)
 * [YouTube tutorials](https://www.youtube.com/results?search_query=c%23)
 
 #####Key Tools within Visual Studio
