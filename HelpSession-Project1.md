@@ -23,9 +23,9 @@ The other big, bad paid versions can be obtained through the CS department two b
 To paraphrase Dr. Martinez's class page [found here](http://axon.cs.byu.edu/~martinez/classes/312/Resources/csharp):
 
 > C# is often compared with Java ...
-Probably more important, though, is how C# is different. While there are many ways, I will go over a few that are more immediate:
-* In Java, the convention is for objects to start uppercase and methods lowercase. In C#, methods start uppercase also (conventionally).
-* Java's accessor paradigm is getX() and setX( X ). C# has [properties](http://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx) which treat accessors more like fields than methods.
+>Probably more important, though, is how C# is different. While there are many ways, I will go over a few that are >more immediate:
+>* In Java, the convention is for objects to start uppercase and methods lowercase. In C#, methods start uppercase also (conventionally).
+>* Java's accessor paradigm is getX() and setX( X ). C# has [properties](http://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx) which treat accessors more like fields than methods.
 
 More help resources can be found on the syllabus page. If you have not read the syllabus, we highly recommend and encourage you to do so now, and use those resources.
 
