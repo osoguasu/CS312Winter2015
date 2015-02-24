@@ -3,7 +3,9 @@ class: center, middle
 # CS 312 Help Session - Project 5
 ###Gene Sequence Alignment
 
-##### Link to my Notes: 
+##### Link to my Notes: http://bit.do/project5notes
+
+##### Link to view as slideshow: http://bit.do/project5slides
 
 ---
 
