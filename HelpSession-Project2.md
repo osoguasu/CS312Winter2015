@@ -1,8 +1,5 @@
 ###CS 312 Help Session - Project 2 - Convex Hull
 
-URL for these notes:
-* [tinyurl.com/cs312helpsession2](http://tinyurl.com/cs312helpsession2)
-
 #####Gist of the Project
 
 The project page does an excellent example of detailing what is expected and gives tips on how to implement it:
