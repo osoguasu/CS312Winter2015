@@ -9,7 +9,7 @@ class: center, middle
 
 ---
 
-#### Objectives
+### Objectives
 
 * Design / implement a DP algorithm for the gene sequence alignment problem
 
@@ -21,7 +21,7 @@ class: center, middle
 
 ---
 
-#### Gist of the Project
+### Gist of the Project
 
 The project page does an excellent example of detailing what is expected and gives tips on how to implement it:
 * [CS 312 Winter 2015: Project 5](http://wiki.cs.byu.edu/cs-312/project-5)
@@ -32,7 +32,7 @@ Make sure you understand the sequence alignment and solution extraction algorith
 
 ---
 
-#### Major steps of the problem
+### Major steps of the problem
 
 * Plan out your data structures, and write pseudo-code. **Note** the two different (though similar) algorithms needed:
 
@@ -44,14 +44,15 @@ Make sure you understand the sequence alignment and solution extraction algorith
 
 ---
 
-#### Scoring Algorithm
+### Scoring Algorithm
 
- * Run in at most $O(n^2)$ time and $O(n)$ space; this will require a modification to the algorithm as given in order to be more sparing in the use of space. 
- * Only align the first 5000 characters (bases) of each sequence.
+* Run in at most $O(n^2)$ time and $O(n)$ space; this will require a modification to the algorithm as given in order to be more sparing in the use of space. 
+ 
+* Only align the first 5000 characters (bases) of each sequence.
 
 ---
 
-#### Continuing with Major Steps
+### Continuing with Major Steps
 
 * Your scoring and extraction algorithms should use the following operator costs to compute the distance between two sequences:
  * Substitutions are penalized 1 unit
@@ -66,6 +67,8 @@ Make sure you understand the sequence alignment and solution extraction algorith
 
 ---
 
+### Continued
+
 * Use the first two sequences in the database, “polynomial” and “exponential”, to help with debugging
 
 * The optimal alignment of these two strings should be -1 (your code should compute that result for the cell at row 1 and column 2 in the table).
@@ -75,7 +78,7 @@ You could also try the operator costs in the book chapter and verify your DP tab
 
 ---
 
-#####Extraction Algorithm
+### Extraction Algorithm
 
 * This function should produce a character-by-character alignment of its two sequence arguments. 
 
@@ -87,7 +90,7 @@ You could also try the operator costs in the book chapter and verify your DP tab
 
 ---
 
-##### Continued
+### Continued
 
 * Extract and display the alignment of the first 100 characters of each of the selected sequences in the pair.
 
@@ -99,12 +102,12 @@ You could also try the operator costs in the book chapter and verify your DP tab
 
 ---
 
-##### Demonstration
+### Demonstration
 
 * Now we show a shiny version of the project to see the algorithm in action.
 
-#####More Info
+### More Info
 
 Always check the syllabus, project specs for help, try searching Google, then the Google Group for the class, and finally we are available through the TA Email, our office hours, and by appointment. Preferably in that order.
 
-###Questions?
+### Questions?
