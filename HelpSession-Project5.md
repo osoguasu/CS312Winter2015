@@ -3,6 +3,8 @@ class: center, middle
 # CS 312 Help Session - Project 5
 ###Gene Sequence Alignment
 
+##### Link to my Notes: 
+
 ---
 
 # Objectives
@@ -17,7 +19,7 @@ class: center, middle
 #Gist of the Project
 
 The project page does an excellent example of detailing what is expected and gives tips on how to implement it:
-* [CS 312 Winter 2015: Project 2](http://wiki.cs.byu.edu/cs-312/project-2)
+* [CS 312 Winter 2015: Project 5](http://wiki.cs.byu.edu/cs-312/project-5)
 
 Another resource that may be helpful is the project page from Dr. Martinez's class. This is given as a helpful resource only, so it may disappear at any time, and may conflict with Dr. Ringger's project page.
 * [CS 312 Fall 2014: Project 2](http://axon.cs.byu.edu/~martinez/classes/312/Projects/Project2/project2.html) 
