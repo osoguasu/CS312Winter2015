@@ -1,7 +1,7 @@
 class: center, middle
 
 # CS 312 Help Session - Project 5
-###Gene Sequence Alignment
+### Gene Sequence Alignment
 
 ##### Link to my Notes: http://bit.do/project5notes
 
@@ -12,13 +12,16 @@ class: center, middle
 # Objectives
 
 * Design / implement a DP algorithm for the gene sequence alignment problem
+
 * Think carefully about the use of memory in your implementation
+
 * Solve a non-trivial computational genomics problem
+
 * Mature as problem-solvers
 
 ---
 
-#Gist of the Project
+# Gist of the Project
 
 The project page does an excellent example of detailing what is expected and gives tips on how to implement it:
 * [CS 312 Winter 2015: Project 5](http://wiki.cs.byu.edu/cs-312/project-5)
