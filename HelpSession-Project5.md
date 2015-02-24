@@ -34,11 +34,19 @@ Make sure you understand the sequence alignment and solution extraction algorith
 
 # Major steps of the problem
 
-1. Plan out your data structures, and write pseudo-code for the alignment and extraction algorithms that you need to implement. **Note** the two different (though similar) algorithms needed:
+1. Plan out your data structures, and write pseudo-code. **Note** the two different (though similar) algorithms needed:
+
   * Scoring algorithm: Simply score the alignment between two sequences but cannot be used to extract the actual alignment.
+
   * Extraction algorithm: The second algorithm should align the sequences and compute the alignment score (like the first algorithm) but do so in such a way that the actual character-by-character alignment can also be extracted. Call this the “extraction algorithm”.
+
   * Each algorithm should use DP, in particular the Needleman/Wunsch algorithm. Find the best alignment by minimizing the total cost.
-The requirement is that your scoring algorithm run in at most O(n2) time and O(n) space; this will require a modification to the algorithm as given in order to be more sparing in the use of space. On the other hand, your extraction algorithm can use O(n2) in time and space, as shown in class and practiced in the homework.
+
+---
+
+# Differences Between the Two
+
+* Your scoring algorithm run in at most $O(n^2)$ time and $O(n)$ space; this will require a modification to the algorithm as given in order to be more sparing in the use of space. On the other hand, your extraction algorithm can use O(n2) in time and space, as shown in class and practiced in the homework.
 Your scoring and extraction algorithms should use the following operator costs to compute the distance between two sequences:
 Substitutions, which are single character mis-matches, are penalized 1 unit
 Insertions/Deletions (“indels”), which create gaps, are penalized 5 units
