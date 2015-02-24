@@ -5,7 +5,7 @@ class: center, middle
 
 ##### Link to my Notes: http://bit.do/project5notes
 
-##### Link to view as slideshow: http://bit.do/project5slides
+##### Link to view as slideshow: http://bit.do/project5NotesSlideshow
 
 ---
 
